@@ -52,3 +52,8 @@ while (it.hasNext()) {
     String materia = (String) it.next(); // Pega o item atual
     System.out.println(materia);         // Imprime na tela
 }
+```
+
+<details>
+<summary>📂 1. Arrays simples </summary>
+
